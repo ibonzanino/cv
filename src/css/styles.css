@@ -1,0 +1,46 @@
+body {
+    max-width: 768px;
+    margin: auto;
+    background-color: #7FC8A9;
+    color: #5F7A61;
+}
+
+hr {
+    border-style: solid none none;
+    border-color: #D5EEBB;
+    border-top-width: 1.5px;
+}
+
+h1, h3 {
+    color: #444941;
+}
+
+a {
+    color: #5F7A61;
+}
+
+.form-control {
+    background-color: #7FC8A9;
+    color: #5F7A61;
+    border-color: #444941;
+    border-width: 0px;
+    border-style: none;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5px;
+}
+
+.sendButton {
+    background-color: #5F7A61;
+    border-radius: 25%;
+    border-color: #7FC8A9;
+}
+
+textarea {
+    background-color: #7FC8A9;
+    color: #5F7A61;
+    border-color: #444941;
+    border-width: 0px;
+    border-style: none;
+    border-left-style: solid;
+    border-left-width: 0.5px;
+}
